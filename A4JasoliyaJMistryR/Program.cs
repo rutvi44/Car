@@ -1,13 +1,3 @@
-﻿/* Project file name : Assignment 4
- * Purpose of program : To Create a Car Inventory, in which, User Can add 3 Brands with their Name, Body Type and Years.
- *                       User Can Edet Information Of Car and User can delete any information of Car, too. 
- *                       User can display the stored information of Cars.
- * 
- * Revision History:
- *     Created bt Jay Jasoliya, 03-25-2023, 
-                  Rutvi Mistry, 04-03-2023.
- */
-
 
 using System;
 using System.Collections.Generic;
